@@ -1,0 +1,18 @@
+#lamp-container {
+    position: relative;
+    width: 80%;
+}
+
+#lamp {
+    width: 100%;
+    transition: 0.5s;
+}
+
+#click-area {
+    position: absolute;
+    top: 15.49%;
+    left: 40.34%;
+    width: 6.12%;
+    height: 7.42%;
+    cursor: pointer;
+}
